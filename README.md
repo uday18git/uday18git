@@ -1,4 +1,8 @@
-[![MasterHead](https://raw.githubusercontent.com/sagar-viradiya/sagar-viradiya/master/resources/banner.png)](https://uday18git.io)
+<p align="center">
+  <img src="https://github.com/thompsonemerson/thompsonemerson/raw/master/cover-thompson.png" height="200"/>
+</p>
+<hr>
+
 <h1 align="center">Hi 👋, I'm Uday Chowdary K</h1>
 <h3 align="center">A passionate machine learning enthusiast from India</h3>
 
