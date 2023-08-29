@@ -12,7 +12,7 @@
 
 - 🌱 I’m currently learning **Generative AI**
 
-- 💬 Ask me about **Machine learning**
+- 💬 Ask me about **Machine learning And Data Analytics**
 
 - 📫 How to reach me **kcuday07@gmail.com**
 
